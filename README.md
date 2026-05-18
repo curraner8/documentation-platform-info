@@ -71,4 +71,4 @@ The platform is built on a **Sync-and-Serve** architecture, ensuring that the do
 * **Med-Tech Compliance:** Gained insight into the rigorous documentation standards required for FDA-regulated medical devices.
 
 ---
-*This project was completed as part of the BSc Computer Science programme at University College Cork (UCC).*
+*This project was completed as part of an Intenship.*
